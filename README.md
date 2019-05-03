@@ -32,8 +32,10 @@ Location: Garca-SP-Brazil
   O tamanho são 3 disponiveis até o momento: 17x17, 27x25 e 40x40mm e são usados para imprimir etiquetas em impressoras termicas que usam
 ribbon, tipo zebra, argox e compativeis.
 
-  Os caracteres da das menores etiquetas estão restrito a 50 e 100 caracteres por motivo de resolução. As de 40x40 não estão disponiveis ainda.
+  Os caracteres das menores etiquetas estão restritos a 50 e 100 caracteres por motivo de resolução. As de 40x40 não estão disponiveis ainda.
   
   Contato> tiagobeloti@gmail.com ou tiago.beloti@garen.com.br
+  
+  Site Garen> www.garen.com.br
   
   ;-)
