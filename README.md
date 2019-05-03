@@ -24,7 +24,7 @@ A serviço da GAREN AUTOMAÇÃO S/A
 
 PHP 7.1.26
 Mysql: 8.0
-Delphi 10.3 - Rio
+Delphi 10.3 - Rio /
 Location: Garca-SP-Brazil
 -22.227974,-49.655115
 
